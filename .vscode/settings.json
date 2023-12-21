@@ -1,0 +1,8 @@
+{
+    // Controls the font family.
+    "editor.fontFamily": "Fira Code, Monospace",
+    // Configures font ligatures or font features. Can be either a boolean to enable/disable ligatures or a string for the value of the CSS 'font-feature-settings' property.
+    "editor.fontLigatures": True,
+    // Controls the font size in pixels.
+    "editor.fontSize": 14,
+}
